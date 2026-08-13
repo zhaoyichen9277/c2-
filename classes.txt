@@ -1,0 +1,3 @@
+community_person
+non_community_person
+electric_scooter

@@ -1,0 +1,10 @@
+# 社区人员/非社区人员/电动车检测数据集配置。
+# 使用明确的项目数据集根目录，避免 Ultralytics 按当前工作目录错误解析相对路径。
+path: D:/C2/datasets/community
+train: images/train
+val: images/val
+
+names:
+  0: community_person
+  1: non_community_person
+  2: electric_scooter
