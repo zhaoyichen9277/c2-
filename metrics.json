@@ -1,0 +1,28 @@
+{
+  "overall": {
+    "precision": 0.6992576675436841,
+    "recall": 0.8085671852745122,
+    "map50": 0.835419111116488,
+    "map50_95": 0.5656529505536747
+  },
+  "per_class": {
+    "community_person": {
+      "precision": 0.652935,
+      "recall": 0.940752,
+      "map50": 0.890986,
+      "map50_95": 0.595698
+    },
+    "non_community_person": {
+      "precision": 0.862535,
+      "recall": 0.615385,
+      "map50": 0.743823,
+      "map50_95": 0.550829
+    },
+    "electric_scooter": {
+      "precision": 0.582303,
+      "recall": 0.869565,
+      "map50": 0.871449,
+      "map50_95": 0.550432
+    }
+  }
+}
